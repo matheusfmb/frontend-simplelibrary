@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo {
+    height: 120px;
+    margin-right: 50px;
+}
+
+.header .button-group {
+    display: flex;
+    align-items: center;
+}
+
+.header .button-group a {
+    padding: 10px;
+}
+
+.header .bt-group {
+    display: flex;
+    margin-left: 150px;
+}
+
+.header .bt-group a {
+    padding: 10px;
+}
+

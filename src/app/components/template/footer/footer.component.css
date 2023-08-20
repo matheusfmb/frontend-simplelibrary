@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer a {
+    padding: 5px;
+}
+
